@@ -1,4 +1,2 @@
 Meu README
-fsdfsdfs
-sdfsdfsd
 
